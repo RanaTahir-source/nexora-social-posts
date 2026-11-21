@@ -1,0 +1,19 @@
+{
+  "ref": "p1122t",
+  "version": 1,
+  "status": "review",
+  "title": "TEST - yeh post kahin nahi lagegi",
+  "service": "test",
+  "style": "test",
+  "publish_at": null,
+  "publish_at_label": "Kahin nahi (sirf test)",
+  "platforms": [],
+  "caption": "Yeh sirf test hai. Jawab mein 'ok p1122t' likhein.",
+  "images": [
+    "https://raw.githubusercontent.com/RanaTahir-source/nexora-social-posts/main/posts/p1122t/v1/1.png"
+  ],
+  "video": null,
+  "history": [],
+  "metricool": null,
+  "test": true
+}
