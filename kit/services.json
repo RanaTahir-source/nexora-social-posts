@@ -1,0 +1,104 @@
+{
+  "_note": "Facts Rana confirmed. A post may only claim what is written here (or in the Nexora Accounting brief for that service). Anything else: leave it out, or ask Rana in the review text. Never prices, percentages, rankings, guarantees, income/job/certificate promises, fake reviews or invented numbers.",
+  "contact": {
+    "website": "https://nexoradsa.org",
+    "email": "info@nexoradsa.org",
+    "whatsapp": "0345 0383301",
+    "whatsapp_link": "https://wa.me/923450383301",
+    "audit_form": "https://nexoradsa.org/#contact",
+    "play_store_school_app": "https://play.google.com/store/apps/details?id=com.ranatahir.schoolsuitemobile",
+    "accounting_download": "https://nexoradsa.org/accounting"
+  },
+  "rotation": [
+    "school_software", "seo_free_audit", "ai_agents", "web_software_apps", "fb_page_optimization",
+    "school_parent_agent", "social_media_ads", "youtube_seo", "agentic_ai_course", "nexora_accounting",
+    "school_attendance", "all_services"
+  ],
+  "services": {
+    "school_software": {
+      "name_ur": "نیکسورا اسکول سافٹ ویئر", "name": "Nexora School Software",
+      "facts": [
+        "Fee banti hai, wasool hoti hai, aur raseed walidain ko WhatsApp par khud chali jati hai",
+        "Baqaya fee ki yaad-dihani: WhatsApp wale walidain ko WhatsApp par, baqi ko SMS",
+        "SMS software ke andar hi, school ki apni SIM ke package se, koi izafi device nahi (do NOT say 'no SMS charges')",
+        "Hazri biometric, chehre ki shanakht aur QR code scan se",
+        "Ek khandan ke kai bachche: walidain ko ek hi ID mein sab nazar aate hain",
+        "Principal, director, admin ke liye computer console aur mobile app; teachers aur walidain ke liye mobile app (complaints, diary, results, fee ledger, balance, progress)",
+        "AI se time table, paper aur test banane mein madad",
+        "Dashboard: rozana aur mahana aamdani, akhrajaat, nafa nuqsan; 100 se zyada reports (Rana says 137; write '100 se zyada')",
+        "App Google Play par maujood hai; English aur Urdu; sab features live hain aur demo par dikhaye ja sakte hain (never 'coming soon')"
+      ],
+      "cta": "Demo ke liye WhatsApp 0345 0383301 (+ Play Store link)"
+    },
+    "school_attendance": {
+      "name_ur": "اسکول حاضری", "name": "School attendance",
+      "facts": ["Biometric, chehre ki shanakht aur QR code scan se hazri", "Ghair hazri ka paigham walidain ko WhatsApp ya SMS par"],
+      "cta": "Demo ke liye WhatsApp 0345 0383301"
+    },
+    "school_parent_agent": {
+      "name_ur": "والدین کے لیے واٹس ایپ AI ایجنٹ", "name": "Parents' WhatsApp AI agent",
+      "facts": ["WhatsApp par walidain ke sawalon ke jawab: fee balance, hazri, school timing, bachche ki progress", "Shikayat text ya voice message se le leta hai", "On demand lagaya jata hai aur is ke alag charges hain (always say this)"],
+      "cta": "Demo ke liye WhatsApp 0345 0383301"
+    },
+    "seo_free_audit": {
+      "name_ur": "مفت ویب سائٹ آڈٹ اور SEO", "name": "Free audit + SEO",
+      "facts": ["Website ka muft audit: form bharein, natija email/WhatsApp par", "Website aur YouTube checks measure hote hain; Facebook Page team khud dekhti hai", "On-Page, Technical aur Off-Page SEO", "Koi ranking ya traffic guarantee nahi (honesty is the selling point)"],
+      "cta": "Muft audit: https://nexoradsa.org/#contact ya WhatsApp 0345 0383301"
+    },
+    "fb_page_optimization": {
+      "name_ur": "فیس بک پیج آپٹیمائزیشن", "name": "Facebook Page Optimization",
+      "facts": ["Team page khud dekh kar batati hai kya badalna hai: About, call-to-action button, cover, posts", "Never call it 'Facebook SEO'"],
+      "cta": "Muft audit form mein page ka link: https://nexoradsa.org/#contact"
+    },
+    "youtube_seo": {
+      "name_ur": "یوٹیوب چینل SEO", "name": "YouTube Channel SEO",
+      "facts": ["Title, description, tags, thumbnails aur channel ki settings behtar karna", "No view/subscriber promises"],
+      "cta": "Muft audit: https://nexoradsa.org/#contact"
+    },
+    "ai_agents": {
+      "name_ur": "واٹس ایپ AI ایجنٹ", "name": "AI agents for business",
+      "facts": ["Business ke liye AI agent jo WhatsApp par sawalon ke jawab de aur order le", "Hotel/restaurant/pizza shop order agent ka demo tayyar hai", "Insaan ki zaroorat ho to team ko bata deta hai"],
+      "cta": "Demo ke liye WhatsApp 0345 0383301"
+    },
+    "web_software_apps": {
+      "name_ur": "ویب سائٹ، سافٹ ویئر اور ایپس", "name": "Websites, software, apps",
+      "facts": ["Web development, har qism ka software, mobile apps, games aur automation", "Examples we built ourselves: Nexora School Software (Play Store), Nexora Accounting, WhatsApp AI agent"],
+      "cta": "Mashwara ke liye WhatsApp 0345 0383301"
+    },
+    "social_media_ads": {
+      "name_ur": "سوشل میڈیا اور اشتہارات", "name": "Social media management, ad making, paid ads",
+      "facts": ["Social media management, ad making (posts, reels), paid ads management, social media growth", "No follower/sales numbers promised"],
+      "cta": "WhatsApp 0345 0383301"
+    },
+    "agentic_ai_course": {
+      "name_ur": "7 دن کا ایجنٹک AI کورس", "name": "Agentic AI course",
+      "facts": ["7 din ka course", "Online bhi aur Nexora ki computer lab mein bhi", "Larke aur larkiyan dono", "AI agent banana, aur agent se website, mobile app aur software banwana"],
+      "unknown": "fees, start date, timing, seats, certificate, platform - never write these",
+      "cta": "Batch ki tafseel ke liye WhatsApp 0345 0383301"
+    },
+    "nexora_accounting": {
+      "name_ur": "Nexora Accounting", "name": "Nexora Accounting (shop/store software)",
+      "gate": "ONLY when state.json accounting_exe_ready is true (Rana confirms the new exe is on the download). Until then skip it in the rotation.",
+      "facts_source": "F:\\My Claude Projects\\softwares\\Nexora_Accounting_Website_and_Ads\\Nexora_Accounting_Brief.txt (ask Rana for a copy if needed) and the approved carousel social media agent\\Nexora Accounting\\posts\\carousel_urdu_01\\final_approved\\APPROVED-007.md",
+      "rules": ["Write 'Nexora' in English letters", "No word 'demo': CTA = ابھی ڈاؤن لوڈ کریں اور لاگ ان کریں, login via WhatsApp", "Salesman = سیلز مین (never بکر)", "Business list: آپ کا کاروبار جو بھی ہو + the shop list, never '14 قسم کی دکانیں'"],
+      "cta": "Download: https://nexoradsa.org/accounting | Login ke liye WhatsApp 0345 0383301"
+    },
+    "all_services": {
+      "name_ur": "Nexora کی تمام سروسز", "name": "All services",
+      "facts": ["SEO, website aur software, mobile apps, AI agents, social media aur ads, Facebook Page Optimization, YouTube Channel SEO, School Software, Nexora Accounting, Agentic AI course", "Pehle muft audit, phir faisla aap ka"],
+      "cta": "https://nexoradsa.org | WhatsApp 0345 0383301"
+    }
+  },
+  "styles": [
+    "single_poster: one strong headline + 3 bullets + CTA pill",
+    "carousel: 3-6 slides, problem -> solution -> features -> CTA",
+    "problem_solution: two-panel 'pehle / ab' (no fake data)",
+    "checklist: '5 nishaniyan ke aap ko X chahiye'",
+    "faq: 3 common questions with short answers",
+    "tip: one useful free tip about the service (educational)",
+    "screenshot_showcase: a real screen of our product with callouts",
+    "myth_fact: 'ghalat fehmi / haqeeqat'",
+    "steps: 'kaise shuru karein' in 3 steps",
+    "question_hook: big question headline + answer slide"
+  ]
+}
