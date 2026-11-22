@@ -183,12 +183,12 @@ def render(pages: dict, out_dir: str, width=1080, height=1350) -> list:
 
 def video(images: list, out_mp4: str, seconds: float = 4.0, audio: str | None = None) -> str:
     """1080x1920 MP4 (H.264 + AAC) for TikTok / YouTube Shorts / Facebook Reel: each 1080x1350 image centred on navy,
-    slow zoom, cross-fade. audio = optional mp3/wav voice-over (video length follows the images). Under 16 MB."""
+    no zoom (zoom cropped the footer phone number), cross-fade. audio = optional mp3/wav voice-over (video length follows the images). Under 16 MB."""
     n = len(images)
     inputs, filters = [], []
     for i, img in enumerate(images):
         inputs += ["-loop", "1", "-t", str(seconds + 0.6), "-i", img]
-        filters.append(f"[{i}:v]scale=1080:1350,zoompan=z='min(zoom+0.0006,1.06)':d={int((seconds + 0.6) * 30)}:s=1080x1350:fps=30,"
+        filters.append(f"[{i}:v]scale=1080:1350,fps=30,"
                        f"pad=1080:1920:0:285:color=0x0B1E39,setsar=1,format=yuv420p[v{i}]")
     chain, last = "", "[v0]"
     for i in range(1, n):

@@ -1,7 +1,9 @@
 {
-  "next_rotation": 0,
+  "next_rotation": 1,
   "accounting_exe_ready": false,
-  "recent_styles": [],
+  "recent_styles": [
+    "faq"
+  ],
   "processed": {
     "p1122t-v1": "test (never schedule)"
   },
