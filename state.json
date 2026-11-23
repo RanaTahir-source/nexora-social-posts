@@ -1,11 +1,16 @@
 {
-  "next_rotation": 1,
+  "next_rotation": 2,
   "accounting_exe_ready": false,
   "recent_styles": [
-    "faq"
+    "faq",
+    "myth_fact"
   ],
   "processed": {
     "p1122t-v1": "test (never schedule)"
   },
-  "backlog_done": []
+  "backlog_done": [
+    "p1123r: skipped (Mon 23 Nov 11:00 too close for a 6h ok; old version stands)",
+    "p1124r: sent for review",
+    "p1125r: sent for review"
+  ]
 }

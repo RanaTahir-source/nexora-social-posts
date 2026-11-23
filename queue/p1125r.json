@@ -1,0 +1,25 @@
+{
+  "ref": "p1125r",
+  "version": 1,
+  "status": "review",
+  "title": "Purani post 8 (Attendance) naye header/footer ke sath",
+  "service": "school_attendance",
+  "style": "single_poster",
+  "backlog": true,
+  "publish_at": "2026-11-25T11:00:00+05:00",
+  "publish_at_label": "Budh 25 Nov, subah 11 baje (pehle se Metricool mein)",
+  "platforms": [
+    "Facebook"
+  ],
+  "review_note": "Purani scheduled Facebook post 8 ki nayi tasveer (naya header/footer). Text wohi approved hai; sirf aakhir mein website aur email add kiye. Ok par Metricool post 432641081 ki tasveer badli jayegi, waqt wohi rahega.",
+  "caption": "بچہ اسکول آیا یا نہیں؟ والدین کو خود پتا چل جائے۔ ✅\nNexora School Software میں حاضری تین طریقوں سے لگ سکتی ہے: بائیو میٹرک، چہرے کی شناخت اور کیو آر کوڈ اسکین۔\nغیر حاضری کا پیغام والدین کو واٹس ایپ یا ایس ایم ایس پر چلا جاتا ہے۔\nڈیمو پر خود دیکھیں: واٹس ایپ 0345 0383301\n\n🌐 https://nexoradsa.org\n📧 info@nexoradsa.org",
+  "images": [
+    "https://raw.githubusercontent.com/RanaTahir-source/nexora-social-posts/main/posts/p1125r/v1/1.png"
+  ],
+  "video": null,
+  "history": [],
+  "metricool": {
+    "existing_post_id": 432641081,
+    "action": "update_media_on_ok"
+  }
+}
