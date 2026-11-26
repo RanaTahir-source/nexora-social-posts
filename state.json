@@ -1,16 +1,26 @@
 {
-  "next_rotation": 2,
+  "next_rotation": 3,
   "accounting_exe_ready": false,
   "recent_styles": [
     "faq",
-    "myth_fact"
+    "myth_fact",
+    "question_hook"
   ],
   "processed": {
-    "p1122t-v1": "test (never schedule)"
+    "p1122t-v1": "test (never schedule)",
+    "p1124-v1": "ok -> scheduled 26 Nov 18:00 (FB 442618491, TikTok 442618508, YouTube 442618517)"
   },
   "backlog_done": [
     "p1123r: skipped (Mon 23 Nov 11:00 too close for a 6h ok; old version stands)",
-    "p1124r: sent for review",
-    "p1125r: sent for review"
-  ]
+    "p1124r: no ok before 24 Nov 11:00; old version stood",
+    "p1125r: no ok before 25 Nov 11:00; old version stood",
+    "p1126r: skipped (Thu 26 Nov 11:00 too close for a 6h ok; old version stands)",
+    "p1127r: sent for review (26 Nov)",
+    "p1130r: sent for review (26 Nov)"
+  ],
+  "booked_slots": {
+    "2026-11-26T18:00": "p1124 (scheduled)",
+    "2026-11-27T18:00": "p1123 (review)",
+    "2026-11-28T18:00": "p1128 (review)"
+  }
 }

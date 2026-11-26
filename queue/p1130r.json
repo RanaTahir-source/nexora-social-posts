@@ -1,0 +1,25 @@
+{
+ "ref": "p1130r",
+ "version": 1,
+ "status": "review",
+ "title": "Purani post 7 (Finance dashboard aur AI tools) naye header/footer ke sath",
+ "service": "school_software",
+ "style": "single_poster",
+ "backlog": true,
+ "publish_at": "2026-11-30T11:00:00+05:00",
+ "publish_at_label": "Peer 30 Nov, subah 11 baje (pehle se Metricool mein)",
+ "platforms": [
+  "Facebook"
+ ],
+ "review_note": "Purani scheduled Facebook post 7 ki nayi tasveer (naya header/footer). Text wohi approved hai; sirf aakhir mein website aur email add kiye. Ok par Metricool post 432641208 ki tasveer aur text badle jayenge, waqt wohi rahega. Ok Peer subah 5 baje se pehle chahiye.",
+ "caption": "اکثر اسکول سافٹ ویئر صرف حاضری اور رزلٹ تک رہتے ہیں۔ حساب کتاب کہاں؟ 📊\n\nNexora School Software کے ڈیش بورڈ پر:\n• روزانہ اور ماہانہ آمدنی اور اخراجات\n• روزانہ اور ماہانہ نفع نقصان\n• 100 سے زیادہ رپورٹس\n• AI سے ٹائم ٹیبل، پیپر اور ٹیسٹ بنانے میں مدد\nمفت ڈیمو: واٹس ایپ 0345 0383301\n\n🌐 https://nexoradsa.org\n📧 info@nexoradsa.org",
+ "images": [
+  "https://raw.githubusercontent.com/RanaTahir-source/nexora-social-posts/main/posts/p1130r/v1/1.png"
+ ],
+ "video": null,
+ "history": [],
+ "metricool": {
+  "existing_post_id": 432641208,
+  "action": "update_media_on_ok"
+ }
+}

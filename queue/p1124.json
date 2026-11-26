@@ -1,27 +1,37 @@
 {
-  "ref": "p1124",
-  "version": 1,
-  "status": "review",
-  "title": "Free Audit + SEO: 3 ghalat fehmiyan (myth/fact)",
-  "service": "seo_free_audit",
-  "style": "myth_fact",
-  "publish_at": "2026-11-24T18:00:00+05:00",
-  "publish_at_label": "Mangal 24 Nov, shaam 6 baje",
-  "platforms": [
-    "Facebook",
-    "TikTok",
-    "YouTube"
-  ],
-  "caption": "SEO کے بارے میں 3 غلط فہمیاں، اور ان کی حقیقت 👇\n❌ \"گوگل پر پہلا نمبر پکا\" ✅ کوئی بھی ایمانداری سے رینکنگ یا ٹریفک کی گارنٹی نہیں دے سکتا، ہم بھی نہیں دیتے۔\n❌ \"آڈٹ کے پیسے لگتے ہیں\" ✅ Nexora آپ کی ویب سائٹ کا آڈٹ مفت کرتی ہے، نتیجہ ای میل یا واٹس ایپ پر۔\n❌ \"SEO صرف کی ورڈز ہیں\" ✅ SEO کے تین حصے ہیں: آن پیج، ٹیکنیکل اور آف پیج۔\nویب سائٹ اور یوٹیوب چینل کی جانچ ہوتی ہے، فیس بک پیج ہماری ٹیم خود دیکھتی ہے۔\n\nمفت آڈٹ کے لیے ابھی فارم بھریں 👇\n🌐 https://nexoradsa.org/#contact\n📲 واٹس ایپ: 0345 0383301\n📧 info@nexoradsa.org\n\n#NexoraDigitalServices #SEO #FreeWebsiteAudit #WebsiteAudit #Bhakkar #Kalurkot #Pakistan",
-  "youtube_title": "SEO ki 3 Ghalat Fehmiyan aur Haqeeqat | Free Website Audit | Nexora",
-  "images": [
-    "https://raw.githubusercontent.com/RanaTahir-source/nexora-social-posts/main/posts/p1124/v1/1.png",
-    "https://raw.githubusercontent.com/RanaTahir-source/nexora-social-posts/main/posts/p1124/v1/2.png",
-    "https://raw.githubusercontent.com/RanaTahir-source/nexora-social-posts/main/posts/p1124/v1/3.png",
-    "https://raw.githubusercontent.com/RanaTahir-source/nexora-social-posts/main/posts/p1124/v1/4.png",
-    "https://raw.githubusercontent.com/RanaTahir-source/nexora-social-posts/main/posts/p1124/v1/5.png"
-  ],
-  "video": "https://raw.githubusercontent.com/RanaTahir-source/nexora-social-posts/main/posts/p1124/v1/short.mp4",
-  "history": [],
-  "metricool": null
+ "ref": "p1124",
+ "version": 1,
+ "status": "scheduled",
+ "title": "Free Audit + SEO: 3 ghalat fehmiyan (myth/fact)",
+ "service": "seo_free_audit",
+ "style": "myth_fact",
+ "publish_at": "2026-11-26T18:00:00+05:00",
+ "publish_at_label": "Jumerat 26 Nov, shaam 6 baje",
+ "platforms": [
+  "Facebook",
+  "TikTok",
+  "YouTube"
+ ],
+ "caption": "SEO کے بارے میں 3 غلط فہمیاں، اور ان کی حقیقت 👇\n❌ \"گوگل پر پہلا نمبر پکا\" ✅ کوئی بھی ایمانداری سے رینکنگ یا ٹریفک کی گارنٹی نہیں دے سکتا، ہم بھی نہیں دیتے۔\n❌ \"آڈٹ کے پیسے لگتے ہیں\" ✅ Nexora آپ کی ویب سائٹ کا آڈٹ مفت کرتی ہے، نتیجہ ای میل یا واٹس ایپ پر۔\n❌ \"SEO صرف کی ورڈز ہیں\" ✅ SEO کے تین حصے ہیں: آن پیج، ٹیکنیکل اور آف پیج۔\nویب سائٹ اور یوٹیوب چینل کی جانچ ہوتی ہے، فیس بک پیج ہماری ٹیم خود دیکھتی ہے۔\n\nمفت آڈٹ کے لیے ابھی فارم بھریں 👇\n🌐 https://nexoradsa.org/#contact\n📲 واٹس ایپ: 0345 0383301\n📧 info@nexoradsa.org\n\n#NexoraDigitalServices #SEO #FreeWebsiteAudit #WebsiteAudit #Bhakkar #Kalurkot #Pakistan",
+ "youtube_title": "SEO ki 3 Ghalat Fehmiyan aur Haqeeqat | Free Website Audit | Nexora",
+ "images": [
+  "https://raw.githubusercontent.com/RanaTahir-source/nexora-social-posts/main/posts/p1124/v1/1.png",
+  "https://raw.githubusercontent.com/RanaTahir-source/nexora-social-posts/main/posts/p1124/v1/2.png",
+  "https://raw.githubusercontent.com/RanaTahir-source/nexora-social-posts/main/posts/p1124/v1/3.png",
+  "https://raw.githubusercontent.com/RanaTahir-source/nexora-social-posts/main/posts/p1124/v1/4.png",
+  "https://raw.githubusercontent.com/RanaTahir-source/nexora-social-posts/main/posts/p1124/v1/5.png"
+ ],
+ "video": "https://raw.githubusercontent.com/RanaTahir-source/nexora-social-posts/main/posts/p1124/v1/short.mp4",
+ "history": [
+  {
+   "at": "2026-11-26T08:50:00+05:00",
+   "event": "ok v1 (26 Nov 07:09 PKT); 24 Nov time had passed, moved to next free slot 6h+ after ok",
+   "old_publish_at": "2026-11-24T18:00:00+05:00"
+  }
+ ],
+ "metricool": {
+  "facebook": 442618491,
+  "tiktok": 442618508,
+  "youtube": 442618517
+ }
 }

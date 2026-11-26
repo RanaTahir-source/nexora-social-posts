@@ -1,25 +1,30 @@
 {
-  "ref": "p1124r",
-  "version": 1,
-  "status": "review",
-  "title": "Purani post 4 (School software overview) naye header/footer ke sath",
-  "service": "school_software",
-  "style": "single_poster",
-  "backlog": true,
-  "publish_at": "2026-11-24T11:00:00+05:00",
-  "publish_at_label": "Mangal 24 Nov, subah 11 baje (pehle se Metricool mein)",
-  "platforms": [
-    "Facebook"
-  ],
-  "review_note": "Purani scheduled Facebook post 4 ki nayi tasveer (naya header/footer). Text wohi approved hai; sirf aakhir mein Play Store link, website aur email add kiye. Ok par Metricool post 432641052 ki tasveer badli jayegi, waqt wohi rahega. Ok Mangal subah 5 baje se pehle chahiye.",
-  "caption": "آپ کے اسکول کا حساب کتاب اور والدین کے سوال، اب سافٹ ویئر خود سنبھالتا ہے۔ 🏫\n\nNexora School Software:\n✅ فیس بنتی ہے، وصول ہوتی ہے، اور رسید والدین کو واٹس ایپ پر خود بخود چلی جاتی ہے\n✅ بقایا فیس کی یاد دہانی: واٹس ایپ والے والدین کو واٹس ایپ پر، باقی کو ایس ایم ایس\n✅ ایس ایم ایس سافٹ ویئر کے اندر ہی، اسکول کی اپنی سم کے پیکج سے، کوئی اضافی ڈیوائس نہیں\n✅ حاضری بائیو میٹرک، چہرے کی شناخت اور کیو آر کوڈ اسکین سے\n✅ ایک خاندان کے 4 بچے؟ والدین کو ایک ہی آئی ڈی میں سب نظر آتے ہیں\n✅ پرنسپل، ڈائریکٹر اور ایڈمن کے لیے کمپیوٹر کنسول اور موبائل ایپ؛ اساتذہ اور والدین کے لیے موبائل ایپ\n✅ AI سے ٹائم ٹیبل، پیپر اور ٹیسٹ بنانے میں مدد\n📲 ایپ گوگل پلے پر موجود ہے۔ سب کچھ ڈیمو پر دیکھیں۔\nواٹس ایپ: 0345 0383301\n\n📱 https://play.google.com/store/apps/details?id=com.ranatahir.schoolsuitemobile\n🌐 https://nexoradsa.org\n📧 info@nexoradsa.org",
-  "images": [
-    "https://raw.githubusercontent.com/RanaTahir-source/nexora-social-posts/main/posts/p1124r/v1/1.png"
-  ],
-  "video": null,
-  "history": [],
-  "metricool": {
-    "existing_post_id": 432641052,
-    "action": "update_media_on_ok"
+ "ref": "p1124r",
+ "version": 1,
+ "status": "expired",
+ "title": "Purani post 4 (School software overview) naye header/footer ke sath",
+ "service": "school_software",
+ "style": "single_poster",
+ "backlog": true,
+ "publish_at": "2026-11-24T11:00:00+05:00",
+ "publish_at_label": "Mangal 24 Nov, subah 11 baje (pehle se Metricool mein)",
+ "platforms": [
+  "Facebook"
+ ],
+ "review_note": "Purani scheduled Facebook post 4 ki nayi tasveer (naya header/footer). Text wohi approved hai; sirf aakhir mein Play Store link, website aur email add kiye. Ok par Metricool post 432641052 ki tasveer badli jayegi, waqt wohi rahega. Ok Mangal subah 5 baje se pehle chahiye.",
+ "caption": "آپ کے اسکول کا حساب کتاب اور والدین کے سوال، اب سافٹ ویئر خود سنبھالتا ہے۔ 🏫\n\nNexora School Software:\n✅ فیس بنتی ہے، وصول ہوتی ہے، اور رسید والدین کو واٹس ایپ پر خود بخود چلی جاتی ہے\n✅ بقایا فیس کی یاد دہانی: واٹس ایپ والے والدین کو واٹس ایپ پر، باقی کو ایس ایم ایس\n✅ ایس ایم ایس سافٹ ویئر کے اندر ہی، اسکول کی اپنی سم کے پیکج سے، کوئی اضافی ڈیوائس نہیں\n✅ حاضری بائیو میٹرک، چہرے کی شناخت اور کیو آر کوڈ اسکین سے\n✅ ایک خاندان کے 4 بچے؟ والدین کو ایک ہی آئی ڈی میں سب نظر آتے ہیں\n✅ پرنسپل، ڈائریکٹر اور ایڈمن کے لیے کمپیوٹر کنسول اور موبائل ایپ؛ اساتذہ اور والدین کے لیے موبائل ایپ\n✅ AI سے ٹائم ٹیبل، پیپر اور ٹیسٹ بنانے میں مدد\n📲 ایپ گوگل پلے پر موجود ہے۔ سب کچھ ڈیمو پر دیکھیں۔\nواٹس ایپ: 0345 0383301\n\n📱 https://play.google.com/store/apps/details?id=com.ranatahir.schoolsuitemobile\n🌐 https://nexoradsa.org\n📧 info@nexoradsa.org",
+ "images": [
+  "https://raw.githubusercontent.com/RanaTahir-source/nexora-social-posts/main/posts/p1124r/v1/1.png"
+ ],
+ "video": null,
+ "history": [
+  {
+   "at": "2026-11-26T08:50:00+05:00",
+   "event": "no ok before the Metricool time; old version went out as it was"
   }
+ ],
+ "metricool": {
+  "existing_post_id": 432641052,
+  "action": "update_media_on_ok"
+ }
 }

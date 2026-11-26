@@ -1,0 +1,25 @@
+{
+ "ref": "p1127r",
+ "version": 1,
+ "status": "review",
+ "title": "Purani post 6 (Walidain ka WhatsApp AI agent) naye header/footer ke sath",
+ "service": "school_parent_agent",
+ "style": "single_poster",
+ "backlog": true,
+ "publish_at": "2026-11-27T10:00:00+05:00",
+ "publish_at_label": "Juma 27 Nov, subah 10 baje (pehle se Metricool mein)",
+ "platforms": [
+  "Facebook"
+ ],
+ "review_note": "Purani scheduled Facebook post 6 ki nayi tasveer (naya header/footer). Text wohi approved hai; sirf aakhir mein website aur email add kiye. Ok par Metricool post 432641164 ki tasveer aur text badle jayenge, waqt wohi rahega. Ok Juma subah 4 baje se pehle chahiye, warna purani post waisi hi lagegi.",
+ "caption": "والدین کے وہی سوال روز؟ فیس کتنی باقی ہے؟ بچے کی حاضری؟ اسکول کا وقت؟ 📱\n\nNexora School Software کا AI ایجنٹ واٹس ایپ پر والدین کے سوالوں کے جواب خود دیتا ہے: فیس بیلنس، حاضری، اسکول ٹائمنگ اور بچے کی تعلیمی پروگریس۔ شکایت بھی ٹیکسٹ یا وائس میسج کے ذریعے لے لیتا ہے۔\n\nآپ کا اسٹاف اپنا اصل کام کرے۔\nیہ سہولت ضرورت کے مطابق (آن ڈیمانڈ) لگائی جاتی ہے اور اس کے الگ چارجز ہیں۔\nڈیمو کے لیے واٹس ایپ: 0345 0383301\n\n🌐 https://nexoradsa.org\n📧 info@nexoradsa.org",
+ "images": [
+  "https://raw.githubusercontent.com/RanaTahir-source/nexora-social-posts/main/posts/p1127r/v1/1.png"
+ ],
+ "video": null,
+ "history": [],
+ "metricool": {
+  "existing_post_id": 432641164,
+  "action": "update_media_on_ok"
+ }
+}
