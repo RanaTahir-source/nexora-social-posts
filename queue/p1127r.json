@@ -1,7 +1,7 @@
 {
  "ref": "p1127r",
  "version": 1,
- "status": "review",
+ "status": "scheduled",
  "title": "Purani post 6 (Walidain ka WhatsApp AI agent) naye header/footer ke sath",
  "service": "school_parent_agent",
  "style": "single_poster",
@@ -17,9 +17,15 @@
   "https://raw.githubusercontent.com/RanaTahir-source/nexora-social-posts/main/posts/p1127r/v1/1.png"
  ],
  "video": null,
- "history": [],
+ "history": [
+  {
+   "at": "2026-11-26T10:43:00+05:00",
+   "event": "ok v1 (26 Nov 09:10) -> Metricool post updated, Juma 27 Nov 10:00"
+  }
+ ],
  "metricool": {
-  "existing_post_id": 432641164,
-  "action": "update_media_on_ok"
+  "facebook": 442680677,
+  "uuid": "-5337283276598131387",
+  "action": "updated existing post (new image + caption), time unchanged"
  }
 }

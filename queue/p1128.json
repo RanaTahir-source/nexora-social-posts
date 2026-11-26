@@ -1,7 +1,7 @@
 {
  "ref": "p1128",
  "version": 1,
- "status": "review",
+ "status": "scheduled",
  "title": "WhatsApp AI agent: raat ko order, jawab kaun dega? (question hook)",
  "service": "ai_agents",
  "style": "question_hook",
@@ -20,6 +20,15 @@
   "https://raw.githubusercontent.com/RanaTahir-source/nexora-social-posts/main/posts/p1128/v1/3.png"
  ],
  "video": "https://raw.githubusercontent.com/RanaTahir-source/nexora-social-posts/main/posts/p1128/v1/short.mp4",
- "history": [],
- "metricool": null
+ "history": [
+  {
+   "at": "2026-11-26T10:43:00+05:00",
+   "event": "ok v1 (26 Nov 09:10) -> scheduled Hafta 28 Nov 18:00 FB/TikTok/YouTube"
+  }
+ ],
+ "metricool": {
+  "facebook": 442680705,
+  "tiktok": 442680715,
+  "youtube": 442680725
+ }
 }
