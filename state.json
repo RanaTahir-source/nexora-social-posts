@@ -12,7 +12,8 @@
     "p1124-v1": "ok -> scheduled 26 Nov 18:00 (FB 442618491, TikTok 442618508, YouTube 442618517)",
     "p1127r-v1": "ok -> Metricool FB post updated, 27 Nov 10:00 (id 442680677)",
     "p1128-v1": "ok -> scheduled 28 Nov 18:00 (FB 442680705, TikTok 442680715, YouTube 442680725)",
-    "p1130r-v1": "ok -> Metricool FB post updated, 30 Nov 11:00 (id 442680693)"
+    "p1130r-v1": "ok -> Metricool FB post updated, 30 Nov 11:00 (id 442680693)",
+    "p1129-v1": "ok -> scheduled 29 Nov 18:00 (FB 443954803, TikTok 443954811, YouTube 443954822)"
   },
   "backlog_done": [
     "p1123r: skipped (Mon 23 Nov 11:00 too close for a 6h ok; old version stands)",
@@ -28,6 +29,6 @@
     "2026-11-28T18:00": "p1128 (scheduled)",
     "2026-11-27T10:00": "p1127r (scheduled, backlog)",
     "2026-11-30T11:00": "p1130r (scheduled, backlog)",
-    "2026-11-29T18:00": "p1129 (review)"
+    "2026-11-29T18:00": "p1129 (scheduled)"
   }
 }
