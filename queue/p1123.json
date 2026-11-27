@@ -5,8 +5,8 @@
  "title": "School Software: 3 ahem sawal (FAQ)",
  "service": "school_software",
  "style": "faq",
- "publish_at": "2026-11-27T18:00:00+05:00",
- "publish_at_label": "Juma 27 Nov, shaam 6 baje (ok Juma dopahar 12 baje se pehle chahiye)",
+ "publish_at": "2026-11-30T18:00:00+05:00",
+ "publish_at_label": "Peer 30 Nov, shaam 6 baje (ok Peer dopahar 12 baje se pehle chahiye)",
  "platforms": [
   "Facebook",
   "TikTok",
@@ -26,6 +26,11 @@
    "at": "2026-11-26T08:50:00+05:00",
    "event": "no answer yet; 23 Nov time passed, moved to next free 18:00 slot",
    "old_publish_at": "2026-11-23T18:00:00+05:00"
+  },
+  {
+   "at": "2026-11-27T15:41:00+05:00",
+   "event": "no ok yet; 27 Nov 18:00 is less than 6 h away, moved to next free 18:00 slot (28 and 29 Nov booked)",
+   "old_publish_at": "2026-11-27T18:00:00+05:00"
   }
  ],
  "metricool": null

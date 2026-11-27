@@ -25,10 +25,10 @@
   ],
   "booked_slots": {
     "2026-11-26T18:00": "p1124 (scheduled)",
-    "2026-11-27T18:00": "p1123 (review)",
     "2026-11-28T18:00": "p1128 (scheduled)",
     "2026-11-27T10:00": "p1127r (scheduled, backlog)",
     "2026-11-30T11:00": "p1130r (scheduled, backlog)",
-    "2026-11-29T18:00": "p1129 (scheduled)"
+    "2026-11-29T18:00": "p1129 (scheduled)",
+    "2026-11-30T18:00": "p1123 (review)"
   }
 }
