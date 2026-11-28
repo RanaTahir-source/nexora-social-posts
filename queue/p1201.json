@@ -1,7 +1,7 @@
 {
   "ref": "p1201",
   "version": 1,
-  "status": "review",
+  "status": "scheduled",
   "title": "Facebook Page Optimization: CTA button ki ek muft tip",
   "service": "fb_page_optimization",
   "style": "tip",
@@ -24,7 +24,15 @@
     {
       "at": "2026-11-28T08:45:00+05:00",
       "event": "created v1; 28, 29 Nov 18:00 scheduled and 30 Nov 18:00 held by p1123, so next free 18:00 slot"
+    },
+    {
+      "at": "2026-11-28T10:42:00+05:00",
+      "event": "v1 ok (28 Nov 09:13 PKT) -> scheduled 1 Dec 18:00 FB/TikTok/YouTube"
     }
   ],
-  "metricool": null
+  "metricool": {
+    "facebook": 445165467,
+    "tiktok": 445165478,
+    "youtube": 445165481
+  }
 }
