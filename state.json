@@ -1,11 +1,11 @@
 {
-  "next_rotation": 4,
+  "next_rotation": 5,
   "accounting_exe_ready": false,
   "recent_styles": [
-    "faq",
     "myth_fact",
     "question_hook",
-    "checklist"
+    "checklist",
+    "tip"
   ],
   "processed": {
     "p1122t-v1": "test (never schedule)",
@@ -29,6 +29,8 @@
     "2026-11-27T10:00": "p1127r (scheduled, backlog)",
     "2026-11-30T11:00": "p1130r (scheduled, backlog)",
     "2026-11-29T18:00": "p1129 (scheduled)",
-    "2026-11-30T18:00": "p1123 (review)"
-  }
+    "2026-11-30T18:00": "p1123 (review)",
+    "2026-12-01T18:00": "p1201 (review)"
+  },
+  "last_run": "2026-11-28T08:45 Run A: no new decisions; p1201 created; backlog empty (all dates passed)"
 }
